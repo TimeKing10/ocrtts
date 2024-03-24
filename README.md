@@ -1,1 +1,1 @@
-# ocrtts
+# Reconocimiento Óptico de Caracteres
